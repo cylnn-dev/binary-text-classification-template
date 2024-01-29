@@ -1,8 +1,8 @@
-# Binary Text Classification using PyTorch and HuggingFace
+# Binary Text Classification using PyTorch and HuggingFace (for Template Purposes)
 
 Detailed explanations on: [cylnn-dev](https://cylnn-dev.github.io/)
 
-This project was written months ago when I was doing my internship at a conversational AI company. They wanted to test their in-house purified data with well-known transformers. Since then, I have deleted all private credentials and changed the dataset to the IMDB Large Movie Review. Feel free to try another binary text classification datasets.
+This project was written months ago when I was doing my internship at a conversational AI company. They wanted to test their in-house purified data with well-known transformers. Since then, I have deleted all private credentials and changed the dataset to the IMDB Large Movie Review. Feel free to try another binary text classification dataset.
 
 NOTE: Do not forget to run split_csv_script.py before beginning. It will create train.csv and test.csv.
 
